@@ -234,7 +234,8 @@ p{
 }
 
 
-#contact .contact-form input, 
+#contact .contact-form input,
+#contact .contact-form button, 
 #contact .contact-form textarea{
     width: 100%;
     padding: 0.5rem;

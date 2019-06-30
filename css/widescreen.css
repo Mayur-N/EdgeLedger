@@ -15,6 +15,7 @@ margin-bottom: 0;
 
 #contact .map{
     flex:2;
+    flex-basis: 50%;
 }
 
 
